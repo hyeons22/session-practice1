@@ -1,6 +1,3 @@
-## 따라치는데 집중하느라 레파지토리나 commit도 안하고 코드작성해버렸습니다..
-## 다음부터는 github에 레파지토리 생성후 commit하면서 코드작성하겠습니다.
-
 # Spring Session Assignment
 
 ## 1. 회원가입
